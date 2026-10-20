@@ -1,9 +1,7 @@
 node_modules/
 dist/
 .env
-*.json
-!package.json
-!tsconfig.json
-!config.example.json
+config.json
+users.csv
 service-account*.json
 results/
