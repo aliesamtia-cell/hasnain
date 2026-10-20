@@ -1,0 +1,19 @@
+{
+  "adminEmail": "admin@your-domain.com",
+  "serviceAccountKeyPath": "./service-account.json",
+  "notifyEmail": "you@personal-mail.com",
+  "smtp": {
+    "host": "smtp.gmail.com",
+    "port": 465,
+    "secure": true,
+    "user": "you@gmail.com",
+    "pass": "app-password-here",
+    "from": "pooleright <you@gmail.com>"
+  },
+  "defaults": {
+    "changePasswordAtNextLogin": true,
+    "turnOff2Sv": true,
+    "signOut": true,
+    "passwordLength": 16
+  }
+}
