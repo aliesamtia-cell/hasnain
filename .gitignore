@@ -1,0 +1,6 @@
+pooleright/node_modules/
+pooleright/dist/
+pooleright/results/
+pooleright/config.json
+pooleright/users.csv
+pooleright/service-account*.json
